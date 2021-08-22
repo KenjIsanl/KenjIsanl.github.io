@@ -1,0 +1,4 @@
+- [Подборки цветов](https://color.romanuke.com/)
+- [Favicon Generator](https://realfavicongenerator.net/)
+- [HTML/CSS/JavaScript compressor](https://compressor.andona.click/)
+- [Free Favicons](https://www.freefavicon.com/freefavicons/)
