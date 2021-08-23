@@ -36,10 +36,6 @@ a:hover {
 	margin-top: 10px;
 	border-radius: 10px;
 }
-.cosplay {
-        margin-left: 15px;
-}
-
 	
 
 .name {
@@ -50,6 +46,9 @@ a:hover {
 .lorem {
 	padding-right: 15px;
 	padding-left: 15px;
+}
+.cosplay {
+	margin-left: 15px;
 }
 
 .detail-info {
