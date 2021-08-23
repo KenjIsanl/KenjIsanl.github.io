@@ -347,3 +347,14 @@ template {
 [hidden] {
   display: none;
 }
+
+/* Additional styles
+   ========================================================================== */
+
+.center {
+  margin: 0 auto;
+}
+
+.hide {
+  display: none;
+}
