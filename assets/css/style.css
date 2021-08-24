@@ -74,12 +74,10 @@ a:hover {
 	backdrop-filter: blur(5px);
 }
 footer {
-	width: 68%;
-	height: 700px;
-	float: right;
-	border-radius: 10px;
-	background-color: var(--main-info-blocks-color);
-	backdrop-filter: blur(5px);
+	color: #666;
+	background: #222;
+	padding: 17px 0 18px 0;
+	border-top: 1px solid #000;
 }
  footer a {
  	color: #999;
