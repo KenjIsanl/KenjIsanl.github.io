@@ -1,6 +1,6 @@
 /* Styles for KenjIsanl/KenjIsanl.github.io GitHub pages project*/
 
-body {
+.body {
 	background: var(--bg-color) url('../images/macos-big-sur-2560x1440-23121.jpg') no-repeat;
 	position: center;
 	background-size: cover;
