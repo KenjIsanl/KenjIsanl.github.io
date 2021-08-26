@@ -66,10 +66,9 @@ a:hover {
 	margin-left: 25px;
 	margin-top: 25px;
 }
-.btn-warning {
-    color: #fff;
-    background-color: #f0ad4e;
-    border-color: #eea236;
+.submit {
+margin: 10 25 10 0px ;
+padding: 10 10 10 10px;
 }
 
 
