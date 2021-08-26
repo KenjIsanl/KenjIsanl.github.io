@@ -71,11 +71,12 @@ a:hover {
     background-color: #f0ad4e;
     border-color: #eea236;
 }
-.btn btn-primary btn-lg {
-	margin-top: 25px;
+
+
+.center{
+ display: block;
+ margin: 0 auto;
 }
-
-
 
 
 
